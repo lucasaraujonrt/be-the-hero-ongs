@@ -31,7 +31,7 @@ export default function Detail() {
       body: message
     });
   }
-  function sendWhatsapp() {
+  function sendWhatsapp() { 
     Linking.openURL(
       `whatsapp://send?phone=${incident.whatsapp}&text=${message}`
     );
