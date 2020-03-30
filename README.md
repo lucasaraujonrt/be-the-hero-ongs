@@ -15,7 +15,7 @@ npm start
 
 Seguir os mesmos passos do back-end. 
 
-## Mobile
+## Mobile [React Native](https://reactnative.dev/)
 
  * Instalar no seu dispositivo o aplicativo [EXPO](https://expo.io/)
  * Baixar as depencias do package.json
