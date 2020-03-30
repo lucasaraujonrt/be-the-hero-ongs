@@ -3,17 +3,17 @@
   
 ## Para a Instalacao do Back-end [Node.js](https://nodejs.org/en/)
 
-Abrir a pasta no terminar e digitar
+* Abrir a pasta no terminar e digitar
 ```bash
 npm install
 ```
-Para baixar todas as dependencias do package.json e rodar
+* Para baixar todas as dependencias do package.json e rodar
 ```bash
 npm start
 ```
 ## Front-end [React.js](https://pt-br.reactjs.org/)
 
-Seguir os mesmos passos do back-end. 
+* Seguir os mesmos passos do back-end. 
 
 ## Mobile [React Native](https://reactnative.dev/)
 
